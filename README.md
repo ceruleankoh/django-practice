@@ -1,2 +1,2 @@
 # ds-algo-practice
-Practicing DS and Algos
+Practicing django
